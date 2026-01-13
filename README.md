@@ -20,3 +20,7 @@ Introduction to chat-gpt as a debugging tool.
 ### mines.py
 - Added win detection when all non-mine cells are revealed.
 - Added `debugging/mines.py`.
+
+### factorial_recursive.py
+- Added recursive factorial implementation with clear docstring sections.
+- Added `debugging/factorial_recursive.py`.
