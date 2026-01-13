@@ -24,3 +24,7 @@ Introduction to chat-gpt as a debugging tool.
 ### factorial_recursive.py
 - Added recursive factorial implementation with clear docstring sections.
 - Added `debugging/factorial_recursive.py`.
+
+### checkbook.py
+- Added input validation to prevent crashes on non-numeric amounts.
+- Added `debugging/checkbook.py`.
