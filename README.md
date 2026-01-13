@@ -28,3 +28,8 @@ Introduction to chat-gpt as a debugging tool.
 ### checkbook.py
 - Added input validation to prevent crashes on non-numeric amounts.
 - Added `debugging/checkbook.py`.
+
+### tic.py
+- Added input validation for positions and numeric parsing.
+- Fixed winner detection flow and added draw handling.
+- Added `debugging/tic.py`.
